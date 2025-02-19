@@ -75,3 +75,64 @@ prev.onclick = () => {
 }
 
 autoSlider(index)
+
+//синроный код - без задержк
+
+// console.log(1)
+// console.log(2)
+// console.log(3)
+// console.log(4)
+
+//асинхроный код - задержкой
+
+// setTimeout(() => {
+//     console.log(1)
+// }, 1)
+//
+// console.log(2)
+
+// const button = document.querySelector('button')
+//
+// button.onclick = () => {
+//         setTimeout() => {
+//         console.log(1)
+//     }
+// }
+//
+// console.log(2)
+
+//forEach() - метод массива
+
+// const array = ['v1', 'v2', 'v3']
+//
+// array.forEach((item) => {
+//     console.log(item)
+// })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
