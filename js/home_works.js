@@ -16,6 +16,8 @@ gmailButton.onclick = () => {
     }
 }
 
+
+
 const parentBlock = document.querySelector('.parent_block')
 const childBlock = document.querySelector('.child_block')
 const maxWight = parentBlock.clientWidth  - childBlock.clientWidth
