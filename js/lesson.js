@@ -79,12 +79,12 @@ const converter = (element, targetElement1, targetElement2) => {
             const data = await response.json()
 
                 if (targetElement1.id ==="som" && targetElement2.id ==="eur") {
-                    targetElement1.value = (element.value*data.usd).toFixed(2);
-                    targetElement2.value = (targetElement1.value/data.eur).toFixed(2);
+                    targetElement1.value = (element.value * data.usd).toFixed(2);
+                    targetElement2.value = (targetElement1.value / data.eur).toFixed(2);
                 }
                 if (targetElement1.id ==="usd" && targetElement2.id === "eur") {
-                    targetElement1.value = (element.value/data.usd).toFixed(2);
-                    targetElement2.value = (element.value/data.eur).toFixed(2);
+                    targetElement1.value = (element.value / data.usd).toFixed(2);
+                    targetElement2.value = (element.value / data.eur).toFixed(2);
                 }
                 if(targetElement1.id ==="usd" && targetElement2.id === "som") {
                     targetElement2.value = (element.value * data.eur).toFixed(2);
@@ -124,8 +124,8 @@ const cardSwitcher = async () => {
                 <p>${completed}</p>
                 <span>${id}</span>
             </div>`
-    } catch (e) {
-        console.log(e)
+    } catch (error) {
+        console.error('Error fetching todos data:', error) 
     }
 }
 

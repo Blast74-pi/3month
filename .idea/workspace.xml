@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="733efc4d-a2ed-4b03-b37a-512a081ff1bd" name="Changes" comment="DZ5">
-      <change afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/cards.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/card.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/lesson.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cards.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,26 +53,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/Geeks/test_2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Geeks/test2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Geeks\project\images" />
       <recent name="C:\Users\user\Desktop\Geeks\project\js" />
     </key>
   </component>
@@ -156,7 +156,18 @@
       <workItem from="1740230695510" duration="4524000" />
       <workItem from="1740394663078" duration="19266000" />
       <workItem from="1740663798590" duration="2803000" />
-      <workItem from="1740752508557" duration="10912000" />
+      <workItem from="1740752508557" duration="12497000" />
+      <workItem from="1740766329467" duration="4434000" />
+      <workItem from="1740771195618" duration="914000" />
+      <workItem from="1741259423197" duration="400000" />
+      <workItem from="1741505807879" duration="145000" />
+      <workItem from="1741506404590" duration="30000" />
+      <workItem from="1741506883482" duration="352000" />
+      <workItem from="1744893181106" duration="727000" />
+      <workItem from="1745140396909" duration="4135000" />
+      <workItem from="1745222185702" duration="2893000" />
+      <workItem from="1745479462698" duration="8571000" />
+      <workItem from="1745493533084" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="Dz">
       <option name="closed" value="true" />
@@ -213,16 +224,5 @@
     <MESSAGE value="Dz" />
     <MESSAGE value="DZ5" />
     <option name="LAST_COMMIT_MESSAGE" value="DZ5" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/js/lesson.js</url>
-          <line>157</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
