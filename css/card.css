@@ -1,58 +1,28 @@
-* {
+body {
     margin: 0;
     padding: 0;
+}
+
+* {
     box-sizing: border-box;
 }
 
-body {
-    position: relative;
-    height: 100vh;
-    background-image: url("../images/phone.webp");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
+.card_list {
+    margin-top: 80px;
+    display: flex;
+    background: linear-gradient(90deg, #464647,#130656);
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
 .card {
-    background: white;
+    background-color: #1f1c2c;
+    width: 210px;
+    height: 310px;
 }
 
-.card-list {
-    padding: 100px 0;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 15px;
-}
-
-.card-cards {
-    padding: 10px;
-    width: 250px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    text-align: center;
-}
-
-.card-cards {
-    border: 2px solid var(--grey);
-    padding: 10px;
-    width: 250px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    text-align: center;
-}
-
-
-.card-photo {
-    width: 100%;
-    height: 150px;
-    border: 2px solid var(--white);
-    margin: 0 auto;
-}
-
-.card-photo img {
+.card img {
     width: 100%;
     height: 100%;
     object-fit: cover;
