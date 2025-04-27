@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="733efc4d-a2ed-4b03-b37a-512a081ff1bd" name="Changes" comment="DZ5">
+      <change afterPath="$PROJECT_DIR$/images/giratinaaltered .webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/phone.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/card.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/lesson.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lesson.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home_works.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home_works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lessons.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/lessons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/monster.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/monster.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +66,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Geeks/test2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Geeks/project&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -165,9 +170,6 @@
       <workItem from="1741506883482" duration="352000" />
       <workItem from="1744893181106" duration="727000" />
       <workItem from="1745140396909" duration="4135000" />
-      <workItem from="1745222185702" duration="2893000" />
-      <workItem from="1745479462698" duration="8571000" />
-      <workItem from="1745493533084" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="Dz">
       <option name="closed" value="true" />
