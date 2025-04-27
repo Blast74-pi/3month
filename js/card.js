@@ -20,7 +20,7 @@ const getCards = async () => {
 
             div.innerHTML =`
                  <div>
-                     <img src="../images/giratinaaltered%20.webp" alt="image">
+                     <img src="../images/giratinaaltered.webp" alt="image">
                  </div>
                 <h5>${elem.title}</h5>
                 <p>${elem.body}</p>
